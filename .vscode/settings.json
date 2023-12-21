@@ -10,5 +10,6 @@
     "git.allowForcePush": true,
     "git.allowNoVerifyCommit": true,
     "git.alwaysShowStagedChangesResourceGroup": true,
-    "git-graph.openNewTabEditorGroup": "Five"
+    "git-graph.openNewTabEditorGroup": "Five",
+    "git-graph.openToTheRepoOfTheActiveTextEditorDocument": true
 }
