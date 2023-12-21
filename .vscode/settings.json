@@ -1,0 +1,14 @@
+{
+    "files.autoSave": "onWindowChange",
+    "cmake.additionalCompilerSearchDirs": [
+        "git clone https://github.com/Homebrew/brew homebrew"
+    ],
+    "cmake.allowCommentsInPresetsFile": true,
+    "cmake.allowUnsupportedPresetsVersions": true,
+    "c-cpp-compile-run.run-in-external-terminal": true,
+    "conventionalCommits.editor.keepAfterSave": true,
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git-graph.openNewTabEditorGroup": "Five"
+}
